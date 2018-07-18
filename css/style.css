@@ -49,6 +49,7 @@
   background: #00f;
   color: #fff;
 }
+<<<<<<< HEAD
 #nghia #n5 {
   height: 140px;
   content: '';
@@ -110,6 +111,11 @@
 }
 #cong #cong1 {
   height: 100%;
+=======
+.hai111 img {
+  width: 70%;
+  height: 70%;
+>>>>>>> ee48e3ac08ae3f95b3bc4ee0b82e35d375d70833
 }
 #cong #cong1 #cong2 {
   float: left;
