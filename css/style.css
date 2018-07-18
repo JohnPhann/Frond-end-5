@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #nghia {
   background: #6266d7;
   height: 550px;
@@ -61,3 +62,38 @@
 .phong{width:100%;height:450px;background:#141e2b;padding-top:30px}.phong .p1{background:#141e2b;height:420px;margin-left:170px;border-right:1px solid #1f2e42}.phong .p1 .icon{width:50px;height:50px;font-size:30px;display:block;background:#96c;text-align:center;padding-top:8px;border-radius:10px;color:#fff}.phong .p1 h3.color-purple{color:#a868df;font-size:25px;font-size:20px;line-height:30px}.phong .p1 p{color:#92939c;font-size:16px}.phong .p1 a{text-align:center;text-decoration:none;text-transform:uppercase;font-weight:600}.phong .p1 .button{display:block;color:#a868df;background:#1f2e42;width:120px;height:40px;line-height:40px;border-radius:5px;margin-top:20px}.phong .p2{background:#141e2b;height:420px;border-right:1px solid #1f2e42}.phong .p2 .icon1{width:50px;height:50px;font-size:30px;display:block;background:#3f9;text-align:center;padding-top:8px;border-radius:10px;color:#fff}.phong .p2 h3.color-purple{color:#3f9;font-size:25px;font-size:20px;line-height:30px}.phong .p2 p{color:#92939c;font-size:16px}.phong .p2 a{text-align:center;text-decoration:none;text-transform:uppercase;font-weight:600}.phong .p2 .button1{display:block;color:#3f9;background:#1f2e42;width:120px;height:40px;line-height:40px;border-radius:5px;margin-top:20px}.phong .p3{background:#141e2b;height:420px}.phong .icon2{width:50px;height:50px;font-size:30px;display:block;background:#06c;text-align:center;padding-top:8px;border-radius:10px;color:#fff}.phong h3.color-purple{color:#06c;font-size:25px;font-size:20px;line-height:30px}.phong p{color:#92939c;font-size:16px}.phong a{text-align:center;text-decoration:none;text-transform:uppercase;font-weight:600}.phong .button2{display:block;color:#06c;background:#1f2e42;width:120px;height:40px;line-height:40px;border-radius:5px;margin-top:20px}
 /*# sourceMappingURL=style.css.map */
 >>>>>>> 8254c518b1a3a1aaba2fb640031bfba614bac0f5
+=======
+.nen {
+  height: 610px;
+  border-bottom: 1px solid #192535;
+  height: 610px;
+  align-items: center;
+  position: relative;
+  background: #141e2b;
+  padding-left: 15%;
+  padding-right: 15%;
+  padding-top: 10%;
+}
+.nen .text {
+  height: 368px;
+  float: left;
+}
+.nen .text .textleft {
+  height: 368px;
+  float: left;
+  padding-left: 1%;
+  padding-right: 1%;
+}
+.nen .text .textleft .icon01 {
+  margin-bottom: 45px;
+}
+.nen .text .textleft h2 {
+  margin-bottom: 25px;
+  color: #a969e0;
+  font-size: 36px;
+}
+.nen .text .textleft p {
+  color: #545a65;
+  margin-bottom: 15px;
+}
+>>>>>>> a3b77edede33750add14e8e58bd3ac8102218df6
